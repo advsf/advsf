@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advsf
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C, C++, Python, and more
+- 🌱 I’m currently working on a new mobile freekick simulator, similar to that of EA FC 26's
 - 📫 How to reach me: liamrhys.york123@gmail.com
 
 <!---
