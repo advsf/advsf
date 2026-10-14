@@ -16,7 +16,7 @@
 
 ### 📺 Featured Content & Devlogs
 - **🎬 First Devlog:** Watch the chaotic reality of building a multiplayer game from scratch on YouTube: [I Created a Multiplayer Football Game In Eight Months](https://youtu.be/lB5YSk84j3I?si=I3VcgHRZY-NpPnJI)[cite: 3]
-- **Portfolio Website** https://advsf.github.io/
+- **Portfolio Website:** https://advsf.github.io/
 
 ### 📬 Connect With Me
 - **Email:** liamrhys.york124@gmail.com[cite: 1]
