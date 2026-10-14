@@ -3,9 +3,9 @@
 - 🌱 I’m currently working on a new mobile freekick simulator, similar to that of EA FC 26's
 - 📫 How to reach me: liamrhys.york124@gmail.com
 - 🎥 My socials ->
-Instagram: https://www.instagram.com/bestmakerdev/?hl=en \n
-TikTok: https://www.tiktok.com/@bestmakerdev?is_from_webapp=1&sender_device=pc \n
-YouTube: https://www.youtube.com/@bestmakerdev2 \n
+<br> Instagram: https://www.instagram.com/bestmakerdev/?hl=en
+<br> TikTok: https://www.tiktok.com/@bestmakerdev?is_from_webapp=1&sender_device=pc
+<br> YouTube: https://www.youtube.com/@bestmakerdev2
 Discord: https://discord.gg/zFWtZvmQZA
 
 <!---
