@@ -6,7 +6,7 @@
 <br> Instagram: https://www.instagram.com/bestmakerdev/?hl=en
 <br> TikTok: https://www.tiktok.com/@bestmakerdev?is_from_webapp=1&sender_device=pc
 <br> YouTube: https://www.youtube.com/@bestmakerdev2
-Discord: https://discord.gg/zFWtZvmQZA
+<br> Discord: https://discord.gg/zFWtZvmQZA
 
 <!---
 advsf/advsf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
