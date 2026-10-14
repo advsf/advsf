@@ -7,7 +7,6 @@
 <br> TikTok: https://www.tiktok.com/@bestmakerdev?is_from_webapp=1&sender_device=pc
 <br> YouTube: https://www.youtube.com/@bestmakerdev2
 <br> Discord: https://discord.gg/zFWtZvmQZA
-<br>
 <br> MY FIRST DEVLOG: https://youtu.be/lB5YSk84j3I?si=I3VcgHRZY-NpPnJI
 
 <!---
